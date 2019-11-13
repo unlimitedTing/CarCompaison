@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Car.Service/1.0.0": {
+        "dependencies": {
+          "Car.Data": "1.0.0",
+          "Car.Model": "1.0.0"
+        },
+        "runtime": {
+          "Car.Service.dll": {}
+        }
+      },
+      "Car.Data/1.0.0": {
+        "dependencies": {
+          "Car.Model": "1.0.0"
+        },
+        "runtime": {
+          "Car.Data.dll": {}
+        }
+      },
+      "Car.Model/1.0.0": {
+        "runtime": {
+          "Car.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Car.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Car.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

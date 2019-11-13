@@ -1,0 +1,8 @@
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\bin\Debug\netcoreapp3.0\Car.Model.deps.json
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\bin\Debug\netcoreapp3.0\Car.Model.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\bin\Debug\netcoreapp3.0\Car.Model.pdb
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\obj\Debug\netcoreapp3.0\Car.Model.csprojAssemblyReference.cache
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\obj\Debug\netcoreapp3.0\Car.Model.AssemblyInfoInputs.cache
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\obj\Debug\netcoreapp3.0\Car.Model.AssemblyInfo.cs
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\obj\Debug\netcoreapp3.0\Car.Model.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\Car.Model\obj\Debug\netcoreapp3.0\Car.Model.pdb

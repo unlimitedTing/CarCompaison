@@ -1,0 +1,13 @@
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Service.deps.json
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Service.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Service.pdb
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Data.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Model.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Model.pdb
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\bin\Debug\netcoreapp3.0\Car.Data.pdb
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.csprojAssemblyReference.cache
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.AssemblyInfoInputs.cache
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.AssemblyInfo.cs
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.csproj.CopyComplete
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.dll
+C:\Users\liuting\source\repos\CarComparison\CarComparison\CarService\obj\Debug\netcoreapp3.0\Car.Service.pdb
